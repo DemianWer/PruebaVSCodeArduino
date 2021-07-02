@@ -7,8 +7,9 @@ void setup()
 
 void loop()
 {
-	Serial.println("Hola Mundo! desde VSCode...");
 
+	String c = "Hola Mundo!";
+	Serial.println(c);
 
 	Serial.println("Cambio");
 	Serial.println("Cambio desde GitHub");
