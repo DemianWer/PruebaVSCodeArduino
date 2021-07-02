@@ -1,3 +1,6 @@
 {
-    "board": "arduino:avr:nano"
+    "sketch": "ProgramaDePrueba.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "output": "./ArchivosCompilados"
 }
